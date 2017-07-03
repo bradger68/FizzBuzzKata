@@ -8,4 +8,4 @@ def FizzBuzz(entry):
     elif entry % 3 != 0 and entry % 5 == 0:
         return "Buzz"
     else:
-        return "."
+        return "X"
